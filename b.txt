@@ -1,2 +1,3 @@
 iiiii
 测试一下不同步是否可以push
+测试没有pull是否可以push
